@@ -50,17 +50,22 @@ body h2{
 }
 
 #dr-freak-cover{
-   width:300px;
-   height:300px;
+   width: 50%;
    border:1px solid black;
+	display: block;
+    margin: 0 auto;
 }
 #gumbo-cover{
 	width: 50%
 	border:1px solid black;
+	 display: block;
+    margin: 0 auto;
 }
 
 #lil-freak-cover{
 	align-self:center;
 	width: 50%
 	border:1px solid black;
+	 display: block;
+    margin: 0 auto;
 }
