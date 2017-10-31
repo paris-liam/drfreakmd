@@ -49,7 +49,7 @@ body h2{
 	text-align: center;
 }
 
-#dr-freak-cover{
+.album-cover{
    width: 40%;
    border:1px solid black;
    display: block;
